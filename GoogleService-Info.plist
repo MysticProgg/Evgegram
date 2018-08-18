@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>866942137147-oiqb483la677jtepqrrkcch0vj2njfgm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.866942137147-oiqb483la677jtepqrrkcch0vj2njfgm</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAizp3D5Ys9uVJ6lS_U90q2ZD4fGlNLdLI</string>
+	<key>GCM_SENDER_ID</key>
+	<string>866942137147</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Johnny-Inc.Evgegram</string>
+	<key>PROJECT_ID</key>
+	<string>evgegram</string>
+	<key>STORAGE_BUCKET</key>
+	<string>evgegram.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:866942137147:ios:0d707a85f397dbd4</string>
+	<key>DATABASE_URL</key>
+	<string>https://evgegram.firebaseio.com</string>
+</dict>
+</plist>
